@@ -4,7 +4,7 @@ export default function Skills() {
   return <> <section class="resume-section" id="skills">
   <div class="resume-section-content">
       <h2 class="mb-5">Skills</h2>
-      {/* <div class="subheading mb-3">Programming Languages & Tools</div>
+      {/* <div class="subheading mb-3">Programming Languages  Tools</div>
       <ul class="list-inline dev-icons">
           <li class="list-inline-item"><i class="fab fa-html5"></i></li>
           <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
@@ -23,19 +23,69 @@ export default function Skills() {
       <ul class="fa-ul mb-0">
           <li>
               <span class="fa-li"><i class="fas fa-check"></i></span>
-              Mobile-First, Responsive Design
+              Inspection Vercels (Hall  Engine)
           </li>
           <li>
               <span class="fa-li"><i class="fas fa-check"></i></span>
-              Cross Browser Testing & Debugging
+              ON HIRE  Off HIRE Condition
           </li>
           <li>
               <span class="fa-li"><i class="fas fa-check"></i></span>
-              Cross Functional Teams
+              BUNKER Surveys
           </li>
           <li>
               <span class="fa-li"><i class="fas fa-check"></i></span>
-              Agile Development & Scrum
+              Draught Survey
+          </li>
+          <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Damage to Hull  Damage to cargo
+          </li>
+          <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Pre-parchace
+          </li>
+          <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Gear Inspection
+          </li>
+          <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Hatch Inspection
+          </li>
+          <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Weather Tightness
+          </li>
+          <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Vesed inspections at Shore  Anchorage for fitness test
+          </li>
+          <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Cargo Stowages
+              <ul class="fa-ul mb-0">
+                    <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Bulk cargoes.
+                     </li>
+                    <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Bagged carpres.
+                     </li>
+                    <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              General carpres.
+                     </li>
+                     <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Containers.
+                     </li>
+                     <li>
+              <span class="fa-li"><i class="fas fa-check"></i></span>
+              Steel Cargo (Plates, blooms, Rod, pipes, Blooms etc).
+                     </li>
+          </ul>
           </li>
       </ul>
   </div>
