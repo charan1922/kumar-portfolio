@@ -17,7 +17,7 @@ export default function About() {
      I am an experienced Ship &#38; Marine Surreyor, Quality &#38; Quantity Analyst, Business Stratergy advisor, CEO of a Export &#38; Import company.
           </p>
       <div class="social-icons">
-          <a class="social-icon" href="https://www.linkedin.com/in/kumar-chinthapalli-6725b729/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
+          <a class="social-icon" href="https://www.linkedin.com/in/kumar-chinthapalli-6725b729/" target="_blank" rel="noreferrer"><i class="fab fa-linkedin-in"></i></a>
           {/* <a class="social-icon" href="#!"><i class="fab fa-github"></i></a> */}
           <a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a>
           {/* <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a> */}
