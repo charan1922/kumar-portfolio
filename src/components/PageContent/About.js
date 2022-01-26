@@ -5,7 +5,7 @@ export default function About() {
   <div class="resume-section-content">
       <h1 class="mb-0">
           KUMAR
-          <span class="text-primary">Chinthapalli</span>
+          <span class="text-primary">{` Chinthapalli`}</span>
 
       </h1>
       <div class="subheading mb-5">
