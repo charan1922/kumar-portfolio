@@ -9,8 +9,8 @@ export default function About() {
 
       </h1>
       <div class="subheading mb-5">
-           Coral Marine Services, Visakhapatnam, India, 530024.  +91 95733 07345 
-          <a href="mailto:chkumar26@gmail.com">chkumar26@gmail.com</a>
+           Coral Marine Services, Visakhapatnam, India, 530024.  <a href="tel:+91 95733 07345">+91 95733 07345</a>  ·  
+          <a href="mailto:chkumar26@gmail.com">  chkumar26@gmail.com</a>
       </div>
       <p class="lead mb-5">
 
